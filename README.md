@@ -1,6 +1,7 @@
 # Automatic-Processing-Data-Using-Python
-Data management at PT. INTENS (Operational Division)
+Data management when Internship 2021 at Pt. Intens (opeational Division)
 
+Python Script with Tkinter GUI for Processing 3 Excel Files (File Transaksi, White Label, & P2P Transfer) into 1 Excel File so that it would help the company to compare and get the important information.
 
 * [Inspiration and Need](#inspiration-and-need)
 
